@@ -8,6 +8,9 @@ namespace Unity.VRTemplate
     /// <summary>
     /// Controls the steps in the in coaching card.
     /// </summary>
+
+ 
+
     public class StepManager : MonoBehaviour
     {
         [Serializable]
@@ -37,6 +40,7 @@ namespace Unity.VRTemplate
 
             if(m_CurrentStepIndex == 6){
                 gameObject.SetActive(false);
+                GameObject.Find("UI/Spatial Panel Manipulator Model/Map").SetActive(true);
             }
         }
     }

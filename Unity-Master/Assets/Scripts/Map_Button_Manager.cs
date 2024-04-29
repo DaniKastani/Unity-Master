@@ -26,8 +26,10 @@ namespace Unity.VRTemplate
         public void economics()
         {
            m_MapList[1].mapObject.SetActive(false);
-           m_MapList[2].mapObject.SetActive(false);
+           m_MapList[2].mapObject.SetActive(true);
            m_MapList[0].mapObject.SetActive(true);
+           gameObject.SetActive(false);
+            
            Debug.Log("economics");
         }
 
@@ -45,6 +47,42 @@ namespace Unity.VRTemplate
            m_MapList[1].mapObject.SetActive(false);
            m_MapList[2].mapObject.SetActive(true);
            Debug.Log("culural");
+        }
+
+        public void retail()
+        {
+         m_MapList[0].mapObject.SetActive(true);
+         m_MapList[1].mapObject.SetActive(false);
+         m_MapList[2].mapObject.SetActive(false);
+         m_MapList[3].mapObject.SetActive(false);
+        
+        }
+
+        public void service()
+        {
+         m_MapList[0].mapObject.SetActive(false);
+         m_MapList[1].mapObject.SetActive(false);
+         m_MapList[2].mapObject.SetActive(true);
+         m_MapList[3].mapObject.SetActive(false);
+        }
+
+        public void hospital()
+        {
+         m_MapList[0].mapObject.SetActive(false);
+         m_MapList[1].mapObject.SetActive(false);
+         m_MapList[2].mapObject.SetActive(false);
+         m_MapList[3].mapObject.SetActive(true);
+        }
+
+        public void back()
+        {
+           m_MapList[0].mapObject.SetActive(false);
+           m_MapList[2].mapObject.SetActive(false);
+           m_MapList[1].mapObject.SetActive(true);
+           m_MapList[3].mapObject.SetActive(false);
+           gameObject.SetActive(false);
+
+           Debug.Log("back");
         }
     }
 }

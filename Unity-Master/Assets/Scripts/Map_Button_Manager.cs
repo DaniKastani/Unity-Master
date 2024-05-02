@@ -23,6 +23,7 @@ namespace Unity.VRTemplate
 
         int m_CurrentStepIndex = 0;
 
+
         public void economics()
         {
            m_MapList[1].mapObject.SetActive(false);
@@ -76,7 +77,7 @@ namespace Unity.VRTemplate
 
         public void back()
         {
-           m_MapList[0].mapObject.SetActive(false);
+           m_MapList[0].mapObject.SetActive(true);
            m_MapList[2].mapObject.SetActive(false);
            m_MapList[1].mapObject.SetActive(true);
            m_MapList[3].mapObject.SetActive(false);

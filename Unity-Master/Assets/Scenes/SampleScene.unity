@@ -33424,7 +33424,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 975473103}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1a2d7d89889b4d94fa1f8d6fe49788e8, type: 3}
   m_Name: 
@@ -33461,7 +33461,7 @@ MonoBehaviour:
   _dimensionsDriveMode: 0
   _resolution: {x: 128, y: 128}
   _generateMipMaps: 0
-  _pixelsPerUnit: 100
+  _pixelsPerUnit: 1000
   _renderingLayers:
     serializedVersion: 2
     m_Bits: 32
@@ -33813,7 +33813,7 @@ GameObject:
   - component: {fileID: 984548389}
   - component: {fileID: 984548393}
   - component: {fileID: 984548392}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}

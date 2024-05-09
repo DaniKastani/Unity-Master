@@ -3,9 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class Compass : MonoBehaviour
 {
+
+   
+       
     public GameObject iconPrefab;
+
+    [SerializeField]
     List <Questmarker> questMarkers = new List<Questmarker>();
 
     public RawImage compassImage;
@@ -15,18 +21,16 @@ public class Compass : MonoBehaviour
 
     float compassUnit;
 
-    public Questmarker one;
-    public Questmarker two;
-    public Questmarker three;
+   // public Questmarker one;
+    //public Questmarker two;
+    //public Questmarker three;
 
     // Start is called before the first frame update
     void Start()
     {
         compassUnit = compassImage.rectTransform.rect.width / 360f; 
 
-        AddQuestMarker(one);
-        AddQuestMarker(two);
-        AddQuestMarker(three);
+       AddQuestMarker();
         
     }
 
@@ -50,13 +54,21 @@ public class Compass : MonoBehaviour
         
     }
 
-      public void AddQuestMarker (Questmarker marker) {
+    public void AddQuestMarker(){
+      foreach(Questmarker marker in questMarkers){
+        GameObject newMarker = Instantiate(iconPrefab, compassImage.transform );
+        marker.image = newMarker.GetComponent<Image>();
+        marker.image.sprite = marker.icon;
+      }
+    }
+
+      /*public void AddQuestMarker (Questmarker marker) {
         GameObject newMarker = Instantiate(iconPrefab, compassImage.transform );
         marker.image = newMarker.GetComponent<Image>();
         marker.image.sprite = marker.icon;
 
         questMarkers.Add(marker);
-    }
+    }*/
 
     Vector2 GetPosOnCompass (Questmarker marker) {
         Vector2 playerPos = new Vector2(player.transform.position.x, player.transform.position.z);

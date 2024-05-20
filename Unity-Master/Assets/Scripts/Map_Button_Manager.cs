@@ -29,9 +29,17 @@ namespace Unity.VRTemplate
            m_MapList[1].mapObject.SetActive(false);
            m_MapList[2].mapObject.SetActive(true);
            m_MapList[0].mapObject.SetActive(true);
+           m_MapList[3].mapObject.SetActive(false);
            gameObject.SetActive(false);
             
            Debug.Log("economics");
+        }
+
+        public void mobility(){
+           m_MapList[0].mapObject.SetActive(false);
+           m_MapList[2].mapObject.SetActive(false);
+           m_MapList[1].mapObject.SetActive(false);
+           m_MapList[3].mapObject.SetActive(true);
         }
 
         public void social()
@@ -39,6 +47,7 @@ namespace Unity.VRTemplate
            m_MapList[0].mapObject.SetActive(false);
            m_MapList[2].mapObject.SetActive(false);
            m_MapList[1].mapObject.SetActive(true);
+           m_MapList[3].mapObject.SetActive(false);
            Debug.Log("social");
         }
 
@@ -47,6 +56,7 @@ namespace Unity.VRTemplate
            m_MapList[0].mapObject.SetActive(false);
            m_MapList[1].mapObject.SetActive(false);
            m_MapList[2].mapObject.SetActive(true);
+           m_MapList[3].mapObject.SetActive(false);
            Debug.Log("culural");
         }
 
@@ -74,6 +84,7 @@ namespace Unity.VRTemplate
          m_MapList[2].mapObject.SetActive(false);
          m_MapList[3].mapObject.SetActive(true);
         }
+
 
         public void back()
         {

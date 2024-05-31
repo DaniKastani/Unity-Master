@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb62087eaad16372",
+        "id": "be5b6b63a946d561",
         "type": "tabs",
         "children": [
           {
-            "id": "270522c59f2931b5",
+            "id": "630ae5852de6385f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,15 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "270522c59f2931b5",
+  "active": "630ae5852de6385f",
   "lastOpenFiles": [
+    "Papers/GoodDesign/filter-based observer design.pdf",
+    "Papers/GoodDesign/filter-based observer design.pdf.crdownload",
+    "Papers/GoodDesign/princilples of urban quality of life.pdf",
+    "Papers/GoodDesign/princilples of urban quality of life.pdf.crdownload",
+    "Papers/GoodDesign/urban planning and quality of life.pdf",
+    "Papers/GoodDesign/urban planning and quality of life.pdf.crdownload",
+    "Research/Genius Loci.md",
+    "Research/Prof. Dott. Gilberto Botti.md",
+    "Research/Gestalt.md",
+    "Research/Improved Neighbourhood.md",
+    "2024-05-31.md",
     "Papers/GoodDesign/Quality of urban community.pdf",
     "Papers/GoodDesign/Quality of urban community.pdf.crdownload",
     "Papers/GoodDesign/Healthy Urban Planning.pdf",
     "Papers/GoodDesign",
     "Papers/Neuer Ordner",
     "01 Study Design.md",
-    "Research/Improved Neighbourhood.md",
     "Spirit of Place/Cultural.md",
     "Spirit of Place/Social.md",
     "Spirit of Place/Economics.md",
@@ -174,27 +183,17 @@
     "Research/Images/Pasted image 20240225164558.png",
     "Research/Images/Pasted image 20240225162850.png",
     "Research/Images/Pasted image 20240225162631.png",
-    "Research/Genius Loci.md",
-    "Spirit of Place",
     "().md",
     "[.md",
-    "Research/Prof. Dott. Gilberto Botti.md",
     "Research/Images/Pasted image 20240204102558.png",
-    "Research/Gestalt.md",
     "Research/Funktion.md",
     "Research/Images/Pasted image 20240204111833.png",
     "Research/Definitions.md",
     "Research/Architecture.md",
-    "Papers/genius loci as a meta-concept.htm",
-    "Papers/Nicht bestätigt 633651.crdownload",
     "Research/Cognitive Mapping.md",
     "Research/Self-Efficacy Scale.md",
     "Research/Navigation in Games.md",
-    "Research/Images",
-    "Papers/Guide for contructive self-efficancy scales.pdf",
-    "Papers/Guide for contructive self-efficancy scales.pdf.crdownload",
     "Research/Maps.md",
-    "Research/Mobility HUBs.md",
     "Untitled.canvas"
   ]
 }

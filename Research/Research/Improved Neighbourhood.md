@@ -1,5 +1,11 @@
 what makes a design decision a good one?
 
+In light of the rapid global urbanization, providing a better quality of life in cities is becoming an increasingly critical issue for urban planning.
+The rise of urban populations worldwide, caused by rapid population growth and urbanization processes, makes urban quality of life relevant to more and more people.
+However, the links between the built environment and subjective well-being are not sufficiently understood.
+There is a lack of a holistic conceptualization that includes all the major pathways between the built environment and SWB. Previous studies have proposed conceptualizations that do not completely capture the range of relevant pathways.
+https://doi.org/10.1016/j.cities.2021.103229 
+
 
 #### Walkable Neighbourhoods
 #### Cultural Amenities 
@@ -21,6 +27,8 @@ As Dowling (1997, p. 30) observed already more than a decade ago: “Putting cul
 
 Regeneration of neighbourhoods, putting a city on the (tourist) map, and, more recently, attracting high-skilled workers and, more fanciful, luring members of the creative class by offering a high quality of place with a wide range of cultural amenities have become the key aims to which investing in culture is seen to contribute.
 
+Culture, whatever its exact form, plays an increasing role in our lives. The on-going process of economization of culture refers not just to culture being increasingly a product which can be bought and sold in markets and which is part of the expanding set of cultural industries, but also to culture as an instrument in (local) economic policies.
+
 References
 	file:///D:/Users/User/Documents/Uni/Master/MasterThesis/Capturing_Spirit_of_Place/Unity-Master/Research/Papers/GoodDesign/cultural%20amenities.pdf
 
@@ -31,5 +39,117 @@ Today, the idea of the “Art of City Making” (Landry, 2006) attempts to draw 
 
 References
 	file:///D:/Users/User/Documents/Downloads/CulturalPlanningTrends.pdf
+
+Whether as an extension of welfare provision and human rights, or the creative industries and cultural tourism, the arts are growing elements of urban, social and economic development in the post-industrial age.
+
+References
+	02_Meh
+
+
+The arts – and broader cultural resources, amenities and facilities - are coming to be seen as strategic urban assets and they have an important and strategic role to play in the new economy.
+'cultural planning' has begun to enter the language of urban planners and designers, local government officers, community arts workers, and community organisations with a stake in the arts and cultural resources
+![[Pasted image 20240601141923.png]]
+
+For reasons of both quality of life and access to a creative talent pool, the arts and culture are a vital ingredient of the local environment. In the creative industries, and especially with the coming of the 'knowledge economy', access to creative resources and skills will give businesses and industries their competitive advantage (in Mercer, 1999).
+
+References
+	file:///D:/Users/User/Documents/Uni/Master/MasterThesis/Capturing_Spirit_of_Place/Unity-Master/Research/Papers/GoodDesign/03_Cultural%20planning%20for%20urban%20cities.pdf
+
+
+#### Designing Neighborhoods
+(green spaces is great, all about subjective well being, categories)
+Kent and Thompson (2014) synthesized literature and suggested that the built environment can contribute to health and wellbeing via three pathways: physical exercise, community social cohesion, and equitable access to healthy food
+
+Pfeiffer and Cloutier (2016) provided an overview of the main drivers of happiness in neighborhoods including, among others, open, natural, and green spaces, and urban design that fosters social interaction and safety.
+
+![[Pasted image 20240601133622.png]]
+Travel:  Information and communications technology and new mobility options can change travel and travel experience in cities and could potentially provide opportunities to improve inclusiveness and quality of life. (Lyons et al., 2018).
+
+workplace, visit shops, and access healthcare, educational, recreational, sport, and cultural facilities and services. - enable people to fulfill their potential and achieve eudaimonia. Needs satisfaction and eudaimonia may in turn also contribute to emotional well-being
+
+Leisure: Leisure is an independent life domain with an important contribution to SWB. 
+Leisure satisfaction can be defined as the level of content with the leisure activities one participates in. 
+Leisure activities and leisure satisfaction are positively associated with physical and mental health outcomes. To understand how the built environment may influence leisure and leisure satisfaction, we can first look at how leisure satisfaction is shaped. Leisure satisfaction is shaped by the participation in social activities and physical activities (Brown & Frankel, 1993; Crandall, 1979; Mouratidis, 2019a) and in preferred leisure activities in general (Lloyd & Auld, 2002). Leisure satisfaction may also be affected by various possible constraints that could pose restrictions on participation in certain activities (Crawford et al., 1991)
+Urban greenness and local amenities were found to be positively linked to leisure satisfaction.
+
+Work: The level of diversity of and accessibility to opportunities for work and education may in turn contribute to SWB
+
+Social: There are studies suggesting that cities and societies where social relationships are strong and supportive are associated with the highest levels of happiness (Diener, Seligman, et al., 2018)
+Researchers have examined the role of the built environment in the formation of two types of social ties: local social relationships (community, neighborhood social ties, neighborhood social cohesion and social capital) and overall social relationships (relationships between friends, family, and partners).
+Built environment characteristics have been consistently linked to neighborhood social ties (Mazumdar et al., 2018). Easy access to destinations and good walking conditions are associated with increased social cohesion at a neighborhood level
+Green communal spaces are linked to stronger neighborhood social ties and sense of community (Kweon et al., 1998). Community initiatives in outdoor spaces may improve neighborhood social cohesion (Anderson et al., 2017)
+
+Objective environmental correlates of neighborhood satisfaction are the location of the neighborhood within the city; the presence of and accessibility to local amenities; and the availability of accessible and usable green spaces
+Equitable access to healthy food in terms of food stores, markets, and restaurants may improve both residential well-being and health outcomes (Kent & Thompson, 2014). Easy access to diverse local facilities has been even more crucial during COVID-19 by enabling participation in certain activities and facilitating healthcare provision. Perceived environmental characteristics correlate more strongly with neighborhood satisfaction but are of course shaped by objective ones
+
+Well-maintained vegetation, upkeep and order, and openness of space are qualities that have been found to trigger positive emotional responses.
+Green space, vegetation, and urban tree cover provide several benefits for emotional well-being as they are linked to reduced stress, reduced mental fatigue, attention recovery, improved feelings of safety, and greater happiness
+
+Public space design and building architecture may also contribute to emotional responses. Aesthetically pleasing public spaces and architecture are linked to greater momentary happiness (Seresinhe et al., 2019). Contemporary architecture – inspired by characterized by asymmetry, lack of ornamentation, and industrial appearance – has been found to score lower in environmental perception than traditional architecture (Mouratidis & Hassan, 2020) and could thereby trigger negative emotional responses since environmental perception may contribute to affective appraisal (Zhang & Lin, 2011)
+Therefore compact, walkable, cyclable environments that enable short travel times and active travel modes may contribute to a positive emotional state
+
+Urban nature provides multiple physical and mental health benefits. As explained above (Section 3.6. Emotional responses), urban nature reduces stress, restores attention, and improves emotional state. Urban green space also provides health benefits by reducing noise (Margaritis & Kang, 2017), reducing local air pollution (Nowak et al., 2006), and mitigating human heat stress (Lee et al., 2016). 
+
+References
+	https://doi.org/10.1016/j.cities.2021.103229 
+
+
+
+
+#### Quality of Life
+The term urban quality of life is not used to describe some physical features but to describe all the relationship, the dynamics, and the reticular relationship that exist between those physical features. 
+Based on the literature review, it can be deduced of seven main dimensions which contribute to realize the urban quality of life: environmental urban quality of life; physical urban quality of life; mobility urban quality of life; social urban quality of life; psychological urban quality of life; economical urban quality of life; political urban quality of life. These dimensions are interrelated and dependent on each other as reflected in the ‘‘Heptagon Shape’’ Fig. 1.
+
+---
+Environmental Urban Quality of Life, refers to the natural aspects of the neighborhood.
+Physical Urban Quality of Life, refers to facilities, urban fabric, land use, services and facilities and infrastructure
+, Mobility Urban Quality of Life, discusses the accessibility, traffic and transportation issues.
+d Social Urban Quality of Life, comprises the indicators that refer to the social dimension of the neighborhood and to the people interaction
+Psychological Urban Quality of Life, it discusses the issues concerning the feeling of citizens toward their neighborhood, such as the identity of the place
+Economical Urban Quality of Life which characterizes the neighborhood as a place of economic activities
+d Political Urban Quality of life, refers to the city policies which support the concept of urban quality of life and the extent to which these policies are implemented.
+
+---
+**Environmental urban quality of life** 
+-  Give the ability to enjoy natural landscape by providing a range of green areas distributed within the neighborhood.
+
+**Physical urban quality of life** 
+- Neighborhood should be compact, pedestrian friendly and mixed use.
+-  Provide the access to adequate services and facilities that fulfill people’s needs.
+
+**Mobility urban quality of life**
+- Provide alternatives to using car in order to reduce traffic load, minimize air pollution and conserve energy
+
+**Social urban quality of life**
+- Promote good relationships and daily interaction between people by providing civic buildings and public gathering places
+- Promote social participation in all the project processes.
+- Promote the liveablilty of streets by providing safe, comfortable, interesting streets and squares to the pedestrian
+
+**Psychological urban quality of life**
+- Promote community identity by preserving heritage and historic remains, making architecture and landscape responding to their context.
+
+The suggested dimensions and principles of urban quality of life aim to guide and assist public policy makers, urban planners, and designers to raise the urban quality of life of the neighborhoods and communities.
+
+References
+	file:///D:/Users/User/Documents/Uni/Master/MasterThesis/Capturing_Spirit_of_Place/Unity-Master/Research/Papers/GoodDesign/princilples%20of%20urban%20quality%20of%20life.pdf
+
+
+
+
+
+#### Retail in Urban Planning
+develop an understanding of the social, psychological, and physical elements that contribute to the quality of a community, to develop a list of physical form criteria that will contribute to the essential qualities of a community, to develop a framework to link quality research to physical form, and to illustrate the practical use of the framework by applying it to three distinct urban communities in Toronto.
+
+![[Pasted image 20240601154745.png]]
+
+References
+	file:///D:/Users/User/Documents/Uni/Master/MasterThesis/Capturing_Spirit_of_Place/Unity-Master/Research/Papers/GoodDesign/Quality%20of%20urban%20community.pdf
+
+
+Moreover, neighborhood liveability is a dimension of urban sustainability (Knox & Mayer, 2009), and retail is undoubtedly an element of that liveability; a richer retail and service supply at the community or neighborhood level reinforces community ties and cohesion, and increases quality of life. A retail district’s vitality and viability can only be sustained through the resilience of different retailers and the diversity of local supply, including products and services, as revealed by research presented in this special issue.
+
+References
+	file:///D:/Users/User/Documents/Uni/Master/MasterThesis/Capturing_Spirit_of_Place/Unity-Master/Research/Papers/GoodDesign/Retail%20planning%20and%20urban%20resilience.pdf
+
 
 

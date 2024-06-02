@@ -152,4 +152,36 @@ References
 	file:///D:/Users/User/Documents/Uni/Master/MasterThesis/Capturing_Spirit_of_Place/Unity-Master/Research/Papers/GoodDesign/Retail%20planning%20and%20urban%20resilience.pdf
 
 
+In short, retail is becoming a more and more manifest part of the public domain. The traditional spaces of retail such as city centres and outlying shopping malls are either increasing in size or disappearing, producing new urban types and whole environments totally dedicated to retail. The proliferation of new retail space brings about a re- and de-territorialisation of urban public space that also includes the transformation of materialities and urban design, and even of the logic and ways through which these design amenities meet the needs of retailers and/or consumers.
+
+considerations to urban space for shopping and retail
+urban and public spaces that are designed or used to any extent for retail and/or shopping related activities, 
+
+Shopping spaces become more and more important parts of urban development, and they have even been described as emblematic of our time. In her book Landscapes of Power (1993), Sharon Zukin describes how our cities have gone from being ‘landscapes of production’, to being ‘landscape of consumption’.
+
+Miles and Miles take this even further in Consuming Cities (2004), where they describes how life in modern cities is reduced to the point where consumption has become the city’s primary function, arguing that: ‘the city has been consumed by consumption and as a result has lost track of its broader social role’ (Miles and Miles 2004: 172). For Bauman this change towards consumerism is seen as coupled with the fulfilment of immediate pleasures and a short-sightedness that leads to objectification and commodification of people, so even the consumer becomes a commodity (for example in Internet dating, Bauman 2007).
+
+Graham and Marvin describe in Splintering Urbanism (1999) how shopping environments contribute to fragmentation of the urban landscape. New shopping centres and retail parks are growing up on the outskirts of towns and contribute to this
+
+**pros**
+Trade and shopping are means of creating a living urban environment in which people can meet and see each other
+Shopping is thus not just something that threatens to destroy or fragment the city, but has also been put forward as something that can enrich city life.
+commercial businesses and retail spaces are a constituent part of city life and a contributing factor to the integration of people and the possibility of interacting.people enjoy and (to some extent must) engage in, and as such it creates both opportunities and meaning in our live
+
+**cons**
+In The Harvard Design School Guide to Shopping (2001), Leong describes how shopping has developed and gradually expanded in size and scope to, in principle, saturate all public activities.
+‘shopping has become one of the only means by which we experience public life.’ (Leong 2001b: 134). Shopping has outgrown the role of being an important urban function and become a necessary condition for urbanity itself
+we have commercialised cities and urban life characterised by the privatisation, domestication, and commodification of public space (Zukin 1995, Atkinson 2003), and fragmentation of the urban landscape as a whole.
+retail and shopping might be seen as controlling, manipulating and even reducing the potential or richness of public life
+Activities of consumption and shopping increase, become territorialised, singularised, themed and boxed, but also, through strategies of synchronisation and desingularisation, become seemingly more seamlessly integrated into the urban environment and our everyday lives
+retail colonises public space,
+
+References
+		file:///D:/Users/User/Documents/Uni/Master/MasterThesis/Capturing_Spirit_of_Place/Unity-Master/Research/Papers/GoodDesign/retailising%20space.pdf
+
+
+#### Consumerism
+Consumption became a way of creating identity and an important means of distinguishing oneself from other people, groups or classes.
+
+
 

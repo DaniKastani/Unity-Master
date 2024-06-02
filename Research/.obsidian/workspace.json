@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Improved Neighbourhood.md",
+                "file": "Spirit of Place/Economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "ebb402d40ab9ca46",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Improved Neighbourhood.md",
+                "file": "Spirit of Place/Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Improved Neighbourhood.md",
+                "file": "Spirit of Place/Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Improved Neighbourhood.md"
+                "file": "Spirit of Place/Economics.md"
               }
             }
           }
@@ -148,6 +148,30 @@
   },
   "active": "630ae5852de6385f",
   "lastOpenFiles": [
+    "Spirit of Place/Cultural.md",
+    "Research/Virtual Environments.md",
+    "Research/Videogames.md",
+    "Research/Spatial Perception.md",
+    "Research/Spatial Orientation.md",
+    "Research/Self-Efficacy Scale.md",
+    "Research/Prof. Dott. Gilberto Botti.md",
+    "Research/Navigation in Games.md",
+    "Research/Mobility HUBs.md",
+    "Research/Maps.md",
+    "Research/Improved Neighbourhood.md",
+    "Research/Gestalt.md",
+    "Research/Architecture.md",
+    "Research/Cognitive Mapping.md",
+    "Research/Definitions.md",
+    "Research/Funktion.md",
+    "Research/Genius Loci.md",
+    "VR Game Tools.md",
+    "Overview.md",
+    "02 Structure.md",
+    "01 Study Design.md",
+    "03 Environment.md",
+    "2024-05-31.md",
+    "Papers/GoodDesign/08_retailising space.pdf",
     "Papers/GoodDesign/retailising space.pdf",
     "Papers/GoodDesign/retailising space.pdf.crdownload",
     "Papers/GoodDesign/07_Retail planning and urban resilience.pdf",
@@ -159,25 +183,10 @@
     "Research/Images/Pasted image 20240601141923.png",
     "Papers/GoodDesign/02_MEH_Culture Planning.pdf",
     "Papers/GoodDesign/02_.pdf",
-    "Papers/GoodDesign/THE_POETICS_OF_CITIES.pdf",
-    "Papers/GoodDesign/01_urban planning and quality of life.pdf",
     "Research/Images/Pasted image 20240601133622.png",
-    "Research/Genius Loci.md",
-    "Research/Prof. Dott. Gilberto Botti.md",
-    "Research/Gestalt.md",
-    "Research/Improved Neighbourhood.md",
-    "2024-05-31.md",
-    "01 Study Design.md",
-    "Spirit of Place/Cultural.md",
     "Spirit of Place/Social.md",
     "Spirit of Place/Economics.md",
     "Spirit of Place/Environmental.md",
-    "03 Environment.md",
-    "02 Structure.md",
-    "Research/Spatial Perception.md",
-    "00 ToDo.md",
-    "Overview.md",
-    "VR Game Tools.md",
     "Research/Images/Pasted image 20240225162558.png",
     "Research/Images/Pasted image 20240225170104.png",
     "Research/Images/Pasted image 20240225164839.png",
@@ -185,15 +194,6 @@
     "Research/Images/Pasted image 20240225164653.png",
     "Research/Images/Pasted image 20240225164558.png",
     "Research/Images/Pasted image 20240225162850.png",
-    "().md",
-    "[.md",
-    "Research/Funktion.md",
-    "Research/Definitions.md",
-    "Research/Architecture.md",
-    "Research/Cognitive Mapping.md",
-    "Research/Self-Efficacy Scale.md",
-    "Research/Navigation in Games.md",
-    "Research/Maps.md",
     "Untitled.canvas"
   ]
 }

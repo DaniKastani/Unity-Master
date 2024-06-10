@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirit of Place/Economics.md",
+                "file": "01 Study Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "036962a47fc84278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Design REVAMPED.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirit of Place/Economics.md",
+                "file": "Study Design REVAMPED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirit of Place/Economics.md",
+                "file": "Study Design REVAMPED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirit of Place/Economics.md"
+                "file": "Study Design REVAMPED.md"
               }
             }
           }
@@ -146,13 +159,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "630ae5852de6385f",
+  "active": "036962a47fc84278",
   "lastOpenFiles": [
+    "2024-05-31.md",
+    "Research/Spatial Orientation.md",
+    "Study Design REVAMPED.md",
+    "VR Game Tools.md",
+    "Papers/Pasted image 20240120124057.png",
+    "Papers/Perceptual evaluation of space in virtual environments.pdf",
+    "01 Study Design.md",
+    "Research/Images/Pasted image 20240122123146.png",
+    "Research/Images/Pasted image 20240122123209.png",
+    "Research/Images/Pasted image 20240122125722.png",
+    "Research/Images/Pasted image 20240122130131.png",
+    "Research/Images/Pasted image 20240122130239.png",
+    "Research/Images/Pasted image 20240202142034.png",
+    "Research/Images/Pasted image 20240202142135.png",
+    "Research/Images/Pasted image 20240202142306.png",
+    "Research/Images/Pasted image 20240204102558.png",
+    "Spirit of Place/Economics.md",
     "Spirit of Place/Cultural.md",
     "Research/Virtual Environments.md",
     "Research/Videogames.md",
     "Research/Spatial Perception.md",
-    "Research/Spatial Orientation.md",
     "Research/Self-Efficacy Scale.md",
     "Research/Prof. Dott. Gilberto Botti.md",
     "Research/Navigation in Games.md",
@@ -165,35 +194,18 @@
     "Research/Definitions.md",
     "Research/Funktion.md",
     "Research/Genius Loci.md",
-    "VR Game Tools.md",
     "Overview.md",
     "02 Structure.md",
-    "01 Study Design.md",
     "03 Environment.md",
-    "2024-05-31.md",
     "Papers/GoodDesign/08_retailising space.pdf",
     "Papers/GoodDesign/retailising space.pdf",
     "Papers/GoodDesign/retailising space.pdf.crdownload",
     "Papers/GoodDesign/07_Retail planning and urban resilience.pdf",
     "Papers/GoodDesign/06_Quality of urban community.pdf",
-    "Research/Images/Pasted image 20240601154745.png",
     "Papers/GoodDesign/05_princilples of urban quality of life.pdf",
     "Papers/GoodDesign/04_cultural amenities.pdf",
     "Papers/GoodDesign/03_Cultural planning for urban cities.pdf",
-    "Research/Images/Pasted image 20240601141923.png",
     "Papers/GoodDesign/02_MEH_Culture Planning.pdf",
-    "Papers/GoodDesign/02_.pdf",
-    "Research/Images/Pasted image 20240601133622.png",
-    "Spirit of Place/Social.md",
-    "Spirit of Place/Economics.md",
-    "Spirit of Place/Environmental.md",
-    "Research/Images/Pasted image 20240225162558.png",
-    "Research/Images/Pasted image 20240225170104.png",
-    "Research/Images/Pasted image 20240225164839.png",
-    "Research/Images/Pasted image 20240225164743.png",
-    "Research/Images/Pasted image 20240225164653.png",
-    "Research/Images/Pasted image 20240225164558.png",
-    "Research/Images/Pasted image 20240225162850.png",
     "Untitled.canvas"
   ]
 }

@@ -24,6 +24,6 @@ https://hegarty-lab.psych.ucsb.edu/sites/default/files/2020-04/Redrawn%20PTSOT%2
 	- [[Pokemon Go and improvement of spacial skills.pdf]]
  
 
-
+https://www.researchgate.net/publication/288801175_A_Study_of_the_Effects_of_Immersion_on_Short-term_Spatial_Memory
 
 

@@ -1,3 +1,7 @@
+Places are characterized by their unique and different economic, cultural, social, and emotional qualities and relationships. They are aggregates of social communication, community, and numerous values, which become essential for its genius loci.
+Although genius loci is the intangible character of a tangible site, it also includes the place's physicality. 
+
+https://pdf.sciencedirectassets.com/271784/1-s2.0-S0264275122X00115/1-s2.0-S0264275122005509/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDsaCXVzLWVhc3QtMSJGMEQCIBrLUczhJQYz7mYXCNz4uN%2Bc5uyS34HPPnvusTryjG0SAiAKeEjfK2r2PU9BwLx0HIQQEKphBQtAXRLKmaakryt9bCq8BQjU%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMIDo%2BqBAzt%2F2x%2BHhzKpAFU2NRo3d2Tjqw4BpIRNu1MxcMvq6mmaJEfk%2Fg%2FMd1fEEHrCkGHap%2BxiDCOcoFqzE0dk0jYowEF7PwqEw5bI8vnjoWaSc9UyPvCFAyybYu6Jcdx5vNjwAMhiLJsNDasuqAJlimsdHwxd03eSw8jtGIE61X7nOjfwxen7PQz1Nb45zqDgJvuLUtoiq4E2xfi6YgHpY%2BbkZCa6DuVjyeD9XB6x949rmSz97jz6hWMUQp7V5fg5TDkNx4TznuX02IdPulvrzHjqwYMCOwNjsEBmPtRjZrHenLcMVZcH7AfVm88v6xDar08qZJSBHxrHao%2BO7J6c2ClXno9eKvCIQnw3Lu%2BOuulslxaILy48fLLxqkolpuY3O6OulB5FKALjw0cFN5aB5qlp2FN3jwvyettw6m%2Bgb1mlZelIhxDEf%2BSuUzB%2B%2BqLtmeVVqY%2F%2BxCQL%2B6kyJnfl4LbLzO13WhUPUZcHd9JhGnVph0ZT8iHMl9kSm%2B16yvHbsyZd4rO3wPWTJ1QhFXyrNFLrxagaQjcc9omM5KFpdoSmAj1LtbGSyAmjfJP8IexWQ5AqDX%2Bk9pYNXALScveQA1%2BJ1MxxpX1aMsfd8c0IOwYNNdyH%2F8yZFK8s48FZIjKI3H3JFZMRFdhK0K7XhnQNfU%2FUgTvQszQSYXwEdHppzjsdhRBgjKv2lSTO%2Bco7uVEGAqH4j3WJoPIcpvJvw%2BUeJe36uRfxQu1eta%2BB%2BHFszeFg2ho0bAjor3Hax5oCm%2B%2Fqpy%2BbuKPWpYlKJJxZxeQX874wdJmtkKIMMBJ5eToBXqWWI0NrzqrJjOuiaCqlKpTf8Jw775VfWc29W%2Bitrk9sgJLaa8sPPbuEVF03ozjosp%2BDPTSitYbEOYIFN2QoMwlYm7swY6sgFryAiNxbrSzCzd2C1hfLpFmFBd%2B%2BEvFeb5mux83v7eh3Ped2EzWE%2FfGQxtTNFD8iR5p7RJMKWPhmmfL601cntktyIc%2BiZ%2BnZEMp4vDFyUWv%2Fle4jo9Zc8DS%2Bl113sLGtGn9rZfjSWHu8R4nKLrH9h%2F3KBfA2slWG6ae4b0pKgjBCo2qnkis8OtTgDvrT5V%2BKPmbj41yVlWtLKTu6Sv3KM3HPJ%2FOpXuL%2BhD5BHzqDkIpAOj&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240616T113517Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYV7HQW5A%2F20240616%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=719c2fbaa7aeb53932fe952e8427ed30e054caeb54a4e5ea7542a3df3cad20ef&hash=29b3e1b60980dca6b89b74a36a886f3087a595326b74360810e2c5a72bbc2cf6&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0264275122005509&tid=spdf-4cf51f7d-35bf-4f28-a58c-79f7f7f2418d&sid=924c30235cb5b94f43891b556d49efab10e6gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=00025e585606580a0a&rr=894a7edd1f039289&cc=de
 
 It is significant in terms of being both the mediator and medium of social interactions.
 
@@ -150,4 +154,7 @@ Perception
 
 References
 	https://dspace.emu.ee/bitstream/handle/10492/3583/Atefeh_Farshadi_MA2017.pdf?sequence=1&isAllowed=y
-	
+
+
+reflected a belief in a place with an identity of its own
+https://www.bothonce.com/10.1080/13574800120032914

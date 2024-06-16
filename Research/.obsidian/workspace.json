@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Study Design.md",
+                "file": "Sense of place.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "036962a47fc84278",
+            "id": "4a1d8749be5a051d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Design REVAMPED.md",
+                "file": "thesis safe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ba0260ba7d47f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Genius Loci.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 348.5
   },
   "right": {
     "id": "ebb402d40ab9ca46",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Design REVAMPED.md",
+                "file": "thesis safe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Design REVAMPED.md",
+                "file": "thesis safe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Design REVAMPED.md"
+                "file": "thesis safe.md"
               }
             }
           }
@@ -159,15 +171,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "036962a47fc84278",
+  "active": "4a1d8749be5a051d",
   "lastOpenFiles": [
-    "2024-05-31.md",
+    "Sense of place.md",
+    "thesis safe.md",
+    "Papers/Design and Evaluation of a RealWorld Virtual Environment for.pdf",
+    "Papers/Design Techniques for Planning Navigational Systems in 3-D video games.pdf",
+    "Papers/Gender difference in spatial orientation.pdf",
+    "Papers/Gender, videogames and navigation in virtual space.pdf",
+    "Papers/Generating virtual environments of real world facilities.pdf",
+    "Papers/Guide for contructive self-efficancy scales.pdf",
+    "Papers/Perceptual evaluation of space in virtual environments.pdf",
+    "Papers/Pokemon Go and improvement of spacial skills.pdf",
+    "Papers/RISE-Arup_Mobility_hubs_report_FINAL.pdf",
+    "Papers/Spatial Perception of 3D CAD Model Dimensions.pdf",
     "Research/Spatial Orientation.md",
+    "Research/Spatial Perception.md",
+    "Research/Videogames.md",
+    "Research/Virtual Environments.md",
+    "01 Study Design.md",
+    "Research/Architecture.md",
+    "Research/Genius Loci.md",
+    "Overview.md",
+    "03 Environment.md",
     "Study Design REVAMPED.md",
     "VR Game Tools.md",
+    "00 ToDo.md",
+    "02 Structure.md",
+    "Research/Funktion.md",
+    "Research/Cognitive Mapping.md",
+    "Research/Definitions.md",
+    "Spirit of Place/Environmental.md",
+    "Spirit of Place/Economics.md",
+    "Spirit of Place/Cultural.md",
+    "Research/Self-Efficacy Scale.md",
+    "Research/Prof. Dott. Gilberto Botti.md",
+    "Research/Mobility HUBs.md",
+    "Research/Navigation in Games.md",
+    "Research/Gestalt.md",
     "Papers/Pasted image 20240120124057.png",
-    "Papers/Perceptual evaluation of space in virtual environments.pdf",
-    "01 Study Design.md",
     "Research/Images/Pasted image 20240122123146.png",
     "Research/Images/Pasted image 20240122123209.png",
     "Research/Images/Pasted image 20240122125722.png",
@@ -177,35 +219,6 @@
     "Research/Images/Pasted image 20240202142135.png",
     "Research/Images/Pasted image 20240202142306.png",
     "Research/Images/Pasted image 20240204102558.png",
-    "Spirit of Place/Economics.md",
-    "Spirit of Place/Cultural.md",
-    "Research/Virtual Environments.md",
-    "Research/Videogames.md",
-    "Research/Spatial Perception.md",
-    "Research/Self-Efficacy Scale.md",
-    "Research/Prof. Dott. Gilberto Botti.md",
-    "Research/Navigation in Games.md",
-    "Research/Mobility HUBs.md",
-    "Research/Maps.md",
-    "Research/Improved Neighbourhood.md",
-    "Research/Gestalt.md",
-    "Research/Architecture.md",
-    "Research/Cognitive Mapping.md",
-    "Research/Definitions.md",
-    "Research/Funktion.md",
-    "Research/Genius Loci.md",
-    "Overview.md",
-    "02 Structure.md",
-    "03 Environment.md",
-    "Papers/GoodDesign/08_retailising space.pdf",
-    "Papers/GoodDesign/retailising space.pdf",
-    "Papers/GoodDesign/retailising space.pdf.crdownload",
-    "Papers/GoodDesign/07_Retail planning and urban resilience.pdf",
-    "Papers/GoodDesign/06_Quality of urban community.pdf",
-    "Papers/GoodDesign/05_princilples of urban quality of life.pdf",
-    "Papers/GoodDesign/04_cultural amenities.pdf",
-    "Papers/GoodDesign/03_Cultural planning for urban cities.pdf",
-    "Papers/GoodDesign/02_MEH_Culture Planning.pdf",
     "Untitled.canvas"
   ]
 }

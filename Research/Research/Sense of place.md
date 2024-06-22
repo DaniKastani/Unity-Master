@@ -77,3 +77,13 @@ These authors suggest that sense of place is not intrinsic to the physical setti
 Tuan suggests that an unexperienced physical setting is ‘‘blank space,’’ without important characteristics of its own: ‘‘What begins as undifferentiated space becomes place when we endow it with value’’ (Tuan 1977, 6)
 
 file:///G:/Meine%20Ablage/LMU/Master/MasterThesis/PapersToReadOnTrain/08941920309189.pdf
+
+
+environmental ambience, often described as sense of place and defined as the specific character, atmosphere, and expressive energy of a particular environment or locale
+
+https://d1wqtxts1xzle7.cloudfront.net/79207261/2022_Seamon_Sense_of_Place_Geography_encyclopedia_AAG_Wiley-libre.pdf?1642728061=&response-content-disposition=inline%3B+filename%3DSense_of_Place_encyclopedia_entry_2022.pdf&Expires=1718722576&Signature=JaFKmWDV7bzwnSeUVfVxWmkWgtnbcpabSCfsGSsYtSNulj4zCA8vj49GBpTP7xH~gYxb~WjHyH12OBzRbYFFIHhgYKqTZXkakXq3V2o6vMAS20TADanF3JXDAcWZlpKoSgysplEuW6GL5GQrbDnIbuMUksQDlZgccE5btSzWjXKLAJRUuncOhtMhw5kBJxhr2Hw5ZSqlu2xt5Paxz-xZapsUNG0nB4DJsrTBb10svOG15C2H3lvPzIVwF4AFAGOQh0NBMhA-CxqVy8ezm8dHmVUc4QsjaFvi0B4rAbVlK447f6w3K6kl9h8k82XAN19QSXPl1mKzh2eOyK4yaqmKoQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+
+The concept, on the one hand, is rooted in the subjective experiences such as memories, traditions, history, culture, and society. It can be affected by the objective and external effects in the environment such as design, landscape, smell, and sound, on the other hand. Accordingly, sense of place is a complicated concept of the human feelings and attachment towards the environment that is produced due to the adaptation and use of place by the human. It means that sense of place has not been a predetermined event but results from the human interaction with the environment
+https://dspace.emu.ee/server/api/core/bitstreams/298f7e9e-e4c7-44f9-9267-fbc46e1e53a8/content
+

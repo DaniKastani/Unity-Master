@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "be5b6b63a946d561",
+        "id": "1cf0706dc197a41d",
         "type": "tabs",
         "children": [
           {
-            "id": "630ae5852de6385f",
+            "id": "d56bfdcc8525642d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sense of place.md",
+                "file": "Research/Participatory Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a1d8749be5a051d",
+            "id": "f26baa4766d90428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis safe.md",
+                "file": "Research/Improved Neighbourhood.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ba0260ba7d47f9a",
+            "id": "e227f1ca6d9460ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Genius Loci.md",
+                "file": "Research/Urban Planning in VR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thesis safe.md",
+                "file": "Research/Urban Planning in VR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thesis safe.md",
+                "file": "Research/Urban Planning in VR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thesis safe.md"
+                "file": "Research/Urban Planning in VR.md"
               }
             }
           }
@@ -171,44 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a1d8749be5a051d",
+  "active": "e227f1ca6d9460ba",
   "lastOpenFiles": [
-    "Sense of place.md",
+    "Research/Participatory Design.md",
+    "Research/Improved Neighbourhood.md",
+    "Research/Urban Planning in VR.md",
+    "Research/Genius Loci.md",
+    "Research/Maps.md",
+    "Research/Mobility HUBs.md",
+    "Research/Navigation in Games.md",
+    "Research/Self-Efficacy Scale.md",
+    "Research/Sense of place.md",
+    "Research/Virtual Environments.md",
+    "Overview.md",
+    "Study Design REVAMPED.md",
     "thesis safe.md",
+    "VR Game Tools.md",
+    "Research/Videogames.md",
+    "Research/Architecture.md",
+    "Research/Definitions.md",
+    "Research/Prof. Dott. Gilberto Botti.md",
+    "Research/Spatial Perception.md",
+    "Research/Spatial Orientation.md",
+    "Research/Cognitive Mapping.md",
+    "Research/Gestalt.md",
     "Papers/Design and Evaluation of a RealWorld Virtual Environment for.pdf",
+    "Papers/cognitve maps, spatial abilities and human wayfinding.pdf",
+    "Papers/Cognitive_Maps_and_Spatial_Behaviour_Pro.pdf",
+    "Papers/cognitive mapping in a complex building.pdf",
+    "Papers/Applied Cognitive Psychology - 2007 - Coluccia - Learning from maps  the role of visuo‐spatial working memory.pdf",
+    "Spirit of Place/Cultural.md",
+    "Research/Funktion.md",
     "Papers/Design Techniques for Planning Navigational Systems in 3-D video games.pdf",
     "Papers/Gender difference in spatial orientation.pdf",
     "Papers/Gender, videogames and navigation in virtual space.pdf",
     "Papers/Generating virtual environments of real world facilities.pdf",
     "Papers/Guide for contructive self-efficancy scales.pdf",
-    "Papers/Perceptual evaluation of space in virtual environments.pdf",
-    "Papers/Pokemon Go and improvement of spacial skills.pdf",
-    "Papers/RISE-Arup_Mobility_hubs_report_FINAL.pdf",
-    "Papers/Spatial Perception of 3D CAD Model Dimensions.pdf",
-    "Research/Spatial Orientation.md",
-    "Research/Spatial Perception.md",
-    "Research/Videogames.md",
-    "Research/Virtual Environments.md",
     "01 Study Design.md",
-    "Research/Architecture.md",
-    "Research/Genius Loci.md",
-    "Overview.md",
     "03 Environment.md",
-    "Study Design REVAMPED.md",
-    "VR Game Tools.md",
-    "00 ToDo.md",
-    "02 Structure.md",
-    "Research/Funktion.md",
-    "Research/Cognitive Mapping.md",
-    "Research/Definitions.md",
-    "Spirit of Place/Environmental.md",
-    "Spirit of Place/Economics.md",
-    "Spirit of Place/Cultural.md",
-    "Research/Self-Efficacy Scale.md",
-    "Research/Prof. Dott. Gilberto Botti.md",
-    "Research/Mobility HUBs.md",
-    "Research/Navigation in Games.md",
-    "Research/Gestalt.md",
     "Papers/Pasted image 20240120124057.png",
     "Research/Images/Pasted image 20240122123146.png",
     "Research/Images/Pasted image 20240122123209.png",

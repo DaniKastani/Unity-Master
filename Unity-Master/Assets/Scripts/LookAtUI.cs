@@ -19,7 +19,7 @@ public class VRRaycast : MonoBehaviour
         // Perform the raycast
         if (Physics.Raycast(ray, out hit, maxDistance))
         {
-            target = hit.transform.gameObject;
+           
 
             // Draw the ray in the scene view
             Debug.DrawRay(vrCamera.position, vrCamera.forward * hit.distance, rayColor);
@@ -28,7 +28,7 @@ public class VRRaycast : MonoBehaviour
                 
                 Debug.Log("hit");
                 
-                //target = hit.transform.gameObject;
+                target = hit.transform.gameObject;
 
                  target.transform.GetChild(0).gameObject.SetActive(true);
                

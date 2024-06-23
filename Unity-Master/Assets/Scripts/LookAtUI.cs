@@ -8,6 +8,7 @@ public class VRRaycast : MonoBehaviour
     public Color rayColor = Color.red;
 
     private GameObject target;
+    private GameObject currentTarget;
 
     void Update()
     {
@@ -18,14 +19,20 @@ public class VRRaycast : MonoBehaviour
         // Perform the raycast
         if (Physics.Raycast(ray, out hit, maxDistance))
         {
+            target = hit.transform.gameObject;
+
             // Draw the ray in the scene view
             Debug.DrawRay(vrCamera.position, vrCamera.forward * hit.distance, rayColor);
             if (hit.collider.tag == "CompassCollider")
             {
+                
                 Debug.Log("hit");
                 
-                target = hit.transform.gameObject;
-                target.transform.GetChild(0).gameObject.SetActive(true);
+                //target = hit.transform.gameObject;
+
+                 target.transform.GetChild(0).gameObject.SetActive(true);
+               
+               
        
             } 
             else 

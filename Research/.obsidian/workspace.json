@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Urban Planning in VR.md",
+                "file": "Research/Sense of place.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Urban Planning in VR.md",
+                "file": "Research/Sense of place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Urban Planning in VR.md",
+                "file": "Research/Sense of place.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Urban Planning in VR.md"
+                "file": "Research/Sense of place.md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "e227f1ca6d9460ba",
   "lastOpenFiles": [
+    "Research/Genius Loci.md",
+    "Research/Urban Planning in VR.md",
     "Research/Participatory Design.md",
     "Research/Improved Neighbourhood.md",
-    "Research/Urban Planning in VR.md",
-    "Research/Genius Loci.md",
     "Research/Maps.md",
     "Research/Mobility HUBs.md",
     "Research/Navigation in Games.md",

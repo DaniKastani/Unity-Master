@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "com.meta.xr.sdk.all": "64.0.0",
-    "com.meta.xr.sdk.interaction.ovr.samples": "64.0.0",
     "com.unity.collab-proxy": "2.3.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.feature.vr": "1.0.0",
@@ -11,7 +9,7 @@
     "com.unity.timeline": "1.7.4",
     "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.9",
     "com.unity.visualscripting": "1.8.0",
-    "com.unity.xr.interaction.toolkit": "2.4.3",
+    "com.unity.xr.interaction.toolkit": "2.3.2",
     "com.unity.xr.management": "4.3.3",
     "com.unity.xr.oculus": "4.0.0",
     "com.unity.xr.openxr": "1.8.2",

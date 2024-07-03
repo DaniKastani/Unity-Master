@@ -29,6 +29,7 @@ public class VRRaycast : MonoBehaviour
                 Debug.Log("hit");
                 
                 target = hit.transform.gameObject;
+                Debug.Log(target.name);
 
                  target.transform.GetChild(0).gameObject.SetActive(true);
                

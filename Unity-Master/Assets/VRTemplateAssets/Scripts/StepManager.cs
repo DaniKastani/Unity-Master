@@ -40,7 +40,7 @@ namespace Unity.VRTemplate
 
             if(m_CurrentStepIndex == 6){
                 gameObject.SetActive(false);
-                GameObject.Find("UI/Spatial Panel Manipulator Model/Map").SetActive(true);
+                GameObject.Find("UI/Tutorial&Map/Map").SetActive(true);
             }
         }
     }

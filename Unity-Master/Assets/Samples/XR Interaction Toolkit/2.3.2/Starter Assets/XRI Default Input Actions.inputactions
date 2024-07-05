@@ -2104,6 +2104,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Custom",
+            "id": "73f84a11-ed29-4f5a-9d0d-3f1073e26b62",
+            "actions": [
+                {
+                    "name": "Legende",
+                    "type": "Button",
+                    "id": "864ebe82-ffdd-4e19-9824-9366a01524ff",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d2928a2b-0c51-4267-84b0-d111c71a96d8",
+                    "path": "<OculusTouchController>{LeftHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Legende",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

@@ -14,8 +14,13 @@ namespace Unity.VRTemplate
             [SerializeField]
             public GameObject compassObject;
 
+            [SerializeField]
+            public string text;
         }
 
+        [SerializeField]
+        public TextMeshProUGUI m_StepButtonTextField1;
+        public TextMeshProUGUI m_StepButtonTextField2;
 
         [SerializeField]
         List<Switch> m_CompassList = new List<Switch>();
@@ -44,6 +49,8 @@ namespace Unity.VRTemplate
     m_CompassList[m_CurrentStepIndex].compassObject.SetActive(false);
     m_CurrentStepIndex = (m_CurrentStepIndex + 1) % m_CompassList.Count;
     m_CompassList[m_CurrentStepIndex].compassObject.SetActive(true);
+    m_StepButtonTextField1.text = m_CompassList[m_CurrentStepIndex].text;
+    m_StepButtonTextField2.text = m_CompassList[m_CurrentStepIndex].text;
     }
 
        

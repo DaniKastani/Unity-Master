@@ -2132,6 +2132,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "NavigationSwitch",
+            "id": "309af00c-32de-4a0a-a707-af00efa10958",
+            "actions": [
+                {
+                    "name": "Switch",
+                    "type": "Button",
+                    "id": "fa4850bd-7302-45fe-bd34-4d6a7677d3f4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ea64fc1e-0b00-4f97-b4ec-5c8b2a64f1d5",
+                    "path": "<OculusTouchController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

@@ -4,7 +4,29 @@ using UnityEngine;
 
 public class Billboard : MonoBehaviour
 {
-    public Transform MyCameraTransform;
+	[SerializeField] private BillboardType billboardType;
+
+	public enum BillboardType {LookAtCamera, CameraForward};
+
+	void LateUpdate(){
+		switch (billboardType)
+		{
+			case BillboardType.LookAtCamera:
+				transform.LookAt(Camera.main.transform.position, Vector3.up);
+				break;
+			case BillboardType.CameraForward:
+
+				break;
+			default:
+				break;
+		}
+	}
+}
+
+
+
+
+    /*public Transform MyCameraTransform;
 	private Transform MyTransform;
 	public bool alignNotLook = true;
 
@@ -21,4 +43,5 @@ public class Billboard : MonoBehaviour
 		else
 			MyTransform.LookAt (MyCameraTransform, Vector3.up);
 	}
-}
+	}*/
+

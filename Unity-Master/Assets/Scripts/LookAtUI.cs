@@ -26,10 +26,9 @@ public class VRRaycast : MonoBehaviour
             if (hit.collider.tag == "CompassCollider")
             {
                 
-                Debug.Log("hit");
+            
                 
                 target = hit.transform.gameObject;
-                Debug.Log(target.name);
 
                  target.transform.GetChild(0).gameObject.SetActive(true);
                
@@ -38,7 +37,6 @@ public class VRRaycast : MonoBehaviour
             } 
             else 
             {
-             Debug.Log("no hit");
                  if(target != null)
                  {
                       target.transform.GetChild(0).gameObject.SetActive(false);

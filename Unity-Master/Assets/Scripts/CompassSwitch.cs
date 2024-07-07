@@ -25,12 +25,22 @@ namespace Unity.VRTemplate
         [SerializeField]
         List<Switch> m_CompassList = new List<Switch>();
 
+        [SerializeField]
+        List<Switch> m_CompassList2 = new List<Switch>();
+
         public InputActionReference switchCompass = null;
 
         int m_CurrentStepIndex = 0;
 
-     
-        
+       
+       CollitionBoolean collitionScript;
+
+       void Start() {
+       
+       collitionScript = GameObject.FindGameObjectWithTag("PlayerCollider").GetComponent<CollitionBoolean>();
+
+       }
+
         private void Awake()
         {
 
@@ -44,13 +54,30 @@ namespace Unity.VRTemplate
             }
 
 
+  
+
+
+
     private void Change (InputAction.CallbackContext context)
     {
-    m_CompassList[m_CurrentStepIndex].compassObject.SetActive(false);
-    m_CurrentStepIndex = (m_CurrentStepIndex + 1) % m_CompassList.Count;
-    m_CompassList[m_CurrentStepIndex].compassObject.SetActive(true);
-    m_StepButtonTextField1.text = m_CompassList[m_CurrentStepIndex].text;
-    m_StepButtonTextField2.text = m_CompassList[m_CurrentStepIndex].text;
+
+        if(collitionScript.secondLocation){
+            //m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(false);
+            m_CompassList[m_CurrentStepIndex].compassObject.SetActive(false);
+            m_CurrentStepIndex = (m_CurrentStepIndex + 1) % m_CompassList.Count;
+            m_CompassList[m_CurrentStepIndex].compassObject.SetActive(true);
+    
+        } else {
+           // m_CompassList[m_CurrentStepIndex].compassObject.SetActive(false);
+            m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(false);
+            m_CurrentStepIndex = (m_CurrentStepIndex + 1) % m_CompassList2.Count;
+            m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(true);
+
+
+        }
+     m_StepButtonTextField1.text = m_CompassList[m_CurrentStepIndex].text;
+     m_StepButtonTextField2.text = m_CompassList[m_CurrentStepIndex].text;
+  
     }
 
        

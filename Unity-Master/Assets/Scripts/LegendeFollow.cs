@@ -55,7 +55,7 @@ public class LegendeFollow : MonoBehaviour
 
     private void MoveTowards(Vector3 targetPosition)
     {
-        transform.position += (targetPosition - transform.position)* 0.025f;
+        transform.position += (targetPosition - transform.position)* 0.05f;
     }
 
     private bool ReachedPosition(Vector3 targetPosition)

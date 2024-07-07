@@ -32,6 +32,7 @@ namespace Unity.VRTemplate
 
         int m_CurrentStepIndex = 0;
 
+ 
        
        CollitionBoolean collitionScript;
 
@@ -62,19 +63,20 @@ namespace Unity.VRTemplate
     {
 
         if(collitionScript.secondLocation){
-            //m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(false);
+        m_CompassList[m_CurrentStepIndex].compassObject.SetActive(false);
+         m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(false);
+         m_CurrentStepIndex = (m_CurrentStepIndex + 1) % m_CompassList2.Count;
+         m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(true);
+            
+    
+        } else {
+        m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(false);
             m_CompassList[m_CurrentStepIndex].compassObject.SetActive(false);
             m_CurrentStepIndex = (m_CurrentStepIndex + 1) % m_CompassList.Count;
             m_CompassList[m_CurrentStepIndex].compassObject.SetActive(true);
-    
-        } else {
-           // m_CompassList[m_CurrentStepIndex].compassObject.SetActive(false);
-            m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(false);
-            m_CurrentStepIndex = (m_CurrentStepIndex + 1) % m_CompassList2.Count;
-            m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(true);
-
 
         }
+
      m_StepButtonTextField1.text = m_CompassList[m_CurrentStepIndex].text;
      m_StepButtonTextField2.text = m_CompassList[m_CurrentStepIndex].text;
   

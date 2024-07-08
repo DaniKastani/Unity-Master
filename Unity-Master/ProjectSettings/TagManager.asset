@@ -9,6 +9,7 @@ TagManager:
   - Environment
   - SecondLocation
   - PlayerCollider
+  - FirstLocation
   layers:
   - Default
   - TransparentFX

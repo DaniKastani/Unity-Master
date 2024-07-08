@@ -16,9 +16,11 @@ public class CollitionBoolean : MonoBehaviour
         
          secondLocation = true;
          Debug.Log("second location");
-      } else {
-        secondLocation = false;
-        Debug.Log("first location");
+      } 
+
+      if (other.gameObject.tag == "FirstLocation"){
+            secondLocation = false;
+            Debug.Log("FirstLocation");
       }
     }
 

@@ -32,6 +32,7 @@ namespace Unity.VRTemplate
 
         int m_CurrentStepIndex = 0;
 
+        bool locationChange = true;
  
        
        CollitionBoolean collitionScript;
@@ -55,7 +56,25 @@ namespace Unity.VRTemplate
             }
 
 
-  
+  void Update (){
+
+        if(locationChange){
+        if(collitionScript.secondLocation){
+            m_CompassList[m_CurrentStepIndex].compassObject.SetActive(false);
+            m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(true);
+            locationChange = false;
+        }
+        }
+
+        if (!locationChange){
+            if(!collitionScript.secondLocation){
+             m_CompassList2[m_CurrentStepIndex].compassObject.SetActive(false);
+            m_CompassList[m_CurrentStepIndex].compassObject.SetActive(true);
+            locationChange = true;
+            }
+        }
+       
+  }
 
 
 

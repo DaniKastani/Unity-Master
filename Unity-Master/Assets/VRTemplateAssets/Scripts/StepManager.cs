@@ -44,21 +44,21 @@ namespace Unity.VRTemplate
             m_StepButtonTextField.text = m_StepList[m_CurrentStepIndex].buttonText;
 
             if(this.gameObject.name == "Map_Tutorial"){
-                if(m_CurrentStepIndex == 4){
+                if(m_CurrentStepIndex == 5){
                     gameObject.SetActive(false);
                     map.SetActive(true);
                  }
             }
             
             if(this.gameObject.name == "FoV_Tutorial"){
-                if(m_CurrentStepIndex == 5){
+                if(m_CurrentStepIndex == 6){
                     gameObject.SetActive(false);
                     fov.SetActive(true);
                  }
             }
 
             if(this.gameObject.name == "Compass_Tutorial"){
-                if(m_CurrentStepIndex == 5){
+                if(m_CurrentStepIndex == 6){
                     gameObject.SetActive(false);
                     compass.SetActive(true);
                  }

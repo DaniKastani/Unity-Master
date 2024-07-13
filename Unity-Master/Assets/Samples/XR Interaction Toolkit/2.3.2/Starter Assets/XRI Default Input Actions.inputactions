@@ -2160,6 +2160,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "XRRigMove",
+            "id": "1a5d2484-77a4-4def-8cf5-93acb21fec62",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "8e7aec59-b0ad-4d13-8fc3-262d3a6be3ee",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7b6cbfdb-aa98-4563-886e-230fd3992dd3",
+                    "path": "<OculusTouchController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

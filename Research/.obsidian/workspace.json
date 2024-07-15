@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Sense of place.md",
+                "file": "Research/Spatial Orientation.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Sense of place.md",
+                "file": "Research/Spatial Orientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Sense of place.md",
+                "file": "Research/Spatial Orientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Sense of place.md"
+                "file": "Research/Spatial Orientation.md"
               }
             }
           }
@@ -183,19 +183,21 @@
   },
   "active": "e227f1ca6d9460ba",
   "lastOpenFiles": [
+    "Research/Genius Loci.md",
+    "Research/Sense of place.md",
+    "Papers/Place/Measuring sense of place in social-ecological systems  a review of literature and future research needs.pdf",
+    "Papers/Place/measuringSenseofplace2.pdf",
+    "Papers/Place/measuringSenseofplace2.pdf.crdownload",
     "Papers/Place/measuringSpiritofplace.pdf",
     "Papers/Place/senseofplaceshamaiilatov.pdf",
     "Research/Place.md",
-    "Research/Sense of place.md",
     "Papers/Place/Place_attachment_And_place_identity.pdf",
     "Papers/Place/Place_attachment_And_place_identity.pdf.crdownload",
     "Pasted image 20240715114301.png",
     "Papers/Place/interdisciplinary_understanding_of_place.pdf",
     "Papers/Place/rethinkingmeaningofplace.pdf",
     "Papers/Place",
-    "Papers/Neuer Ordner",
     "Research/Participatory Design.md",
-    "Research/Genius Loci.md",
     "Research/Gestalt.md",
     "Research/Improved Neighbourhood.md",
     "Research/Funktion.md",
@@ -205,7 +207,6 @@
     "Research/Spatial Orientation.md",
     "Research/Spatial Perception.md",
     "Research/Urban Planning in VR.md",
-    "Papers/Perceptual evaluation of space in virtual environments.pdf",
     "Research/Videogames.md",
     "Research/Virtual Environments.md",
     "Research/Navigation in Games.md",
@@ -217,8 +218,6 @@
     "thesis safe.md",
     "VR Game Tools.md",
     "Research/Prof. Dott. Gilberto Botti.md",
-    "Papers/Design and Evaluation of a RealWorld Virtual Environment for.pdf",
-    "Papers/cognitve maps, spatial abilities and human wayfinding.pdf",
     "Spirit of Place/Cultural.md",
     "Papers/Pasted image 20240120124057.png",
     "Research/Images/Pasted image 20240122123146.png",

@@ -23,11 +23,9 @@
             "id": "f26baa4766d90428",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Research/Improved Neighbourhood.md",
-                "mode": "source",
-                "source": false
+                "file": "Papers/Perceptual evaluation of space in virtual environments.pdf"
               }
             }
           },
@@ -37,7 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Videogames.md",
+                "file": "Research/Sense of place.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e23e5e08307601f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Place.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Videogames.md",
+                "file": "Research/Sense of place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Videogames.md",
+                "file": "Research/Sense of place.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Videogames.md"
+                "file": "Research/Sense of place.md"
               }
             }
           }
@@ -173,42 +183,43 @@
   },
   "active": "e227f1ca6d9460ba",
   "lastOpenFiles": [
-    "Research/Navigation in Games.md",
+    "Papers/Place/measuringSpiritofplace.pdf",
+    "Papers/Place/senseofplaceshamaiilatov.pdf",
+    "Research/Place.md",
     "Research/Sense of place.md",
-    "Research/Genius Loci.md",
-    "Research/Urban Planning in VR.md",
+    "Papers/Place/Place_attachment_And_place_identity.pdf",
+    "Papers/Place/Place_attachment_And_place_identity.pdf.crdownload",
+    "Pasted image 20240715114301.png",
+    "Papers/Place/interdisciplinary_understanding_of_place.pdf",
+    "Papers/Place/rethinkingmeaningofplace.pdf",
+    "Papers/Place",
+    "Papers/Neuer Ordner",
     "Research/Participatory Design.md",
+    "Research/Genius Loci.md",
+    "Research/Gestalt.md",
     "Research/Improved Neighbourhood.md",
+    "Research/Funktion.md",
+    "Research/Definitions.md",
+    "Research/Cognitive Mapping.md",
+    "Research/Architecture.md",
+    "Research/Spatial Orientation.md",
+    "Research/Spatial Perception.md",
+    "Research/Urban Planning in VR.md",
+    "Papers/Perceptual evaluation of space in virtual environments.pdf",
+    "Research/Videogames.md",
+    "Research/Virtual Environments.md",
+    "Research/Navigation in Games.md",
     "Research/Maps.md",
     "Research/Mobility HUBs.md",
     "Research/Self-Efficacy Scale.md",
-    "Research/Virtual Environments.md",
     "Overview.md",
     "Study Design REVAMPED.md",
     "thesis safe.md",
     "VR Game Tools.md",
-    "Research/Videogames.md",
-    "Research/Architecture.md",
-    "Research/Definitions.md",
     "Research/Prof. Dott. Gilberto Botti.md",
-    "Research/Spatial Perception.md",
-    "Research/Spatial Orientation.md",
-    "Research/Cognitive Mapping.md",
-    "Research/Gestalt.md",
     "Papers/Design and Evaluation of a RealWorld Virtual Environment for.pdf",
     "Papers/cognitve maps, spatial abilities and human wayfinding.pdf",
-    "Papers/Cognitive_Maps_and_Spatial_Behaviour_Pro.pdf",
-    "Papers/cognitive mapping in a complex building.pdf",
-    "Papers/Applied Cognitive Psychology - 2007 - Coluccia - Learning from maps  the role of visuo‐spatial working memory.pdf",
     "Spirit of Place/Cultural.md",
-    "Research/Funktion.md",
-    "Papers/Design Techniques for Planning Navigational Systems in 3-D video games.pdf",
-    "Papers/Gender difference in spatial orientation.pdf",
-    "Papers/Gender, videogames and navigation in virtual space.pdf",
-    "Papers/Generating virtual environments of real world facilities.pdf",
-    "Papers/Guide for contructive self-efficancy scales.pdf",
-    "01 Study Design.md",
-    "03 Environment.md",
     "Papers/Pasted image 20240120124057.png",
     "Research/Images/Pasted image 20240122123146.png",
     "Research/Images/Pasted image 20240122123209.png",
@@ -218,7 +229,6 @@
     "Research/Images/Pasted image 20240202142034.png",
     "Research/Images/Pasted image 20240202142135.png",
     "Research/Images/Pasted image 20240202142306.png",
-    "Research/Images/Pasted image 20240204102558.png",
     "Untitled.canvas"
   ]
 }

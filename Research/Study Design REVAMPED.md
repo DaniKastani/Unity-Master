@@ -19,4 +19,5 @@ https://www.researchgate.net/publication/288801175_A_Study_of_the_Effects_of_Imm
 https://www.atiner.gr/journals/technology/2014-1-1-2-SONG.pdf
 
 https://web.uvic.ca/~esplab/sites/default/files/McCunn%202018.pdf
-For example, quantitative and qualitative spatial mapping approaches have been used to investigate which landscape elements best predict place identity and place dependence (e.g., Brown & Raymond, 2007; Lowry & Morse, 2013).
+dence (e.g., Brown & Raymond, 2007; Lowry & Morse, 2013).
+https://www.sciencedirect.com/science/article/pii/S0264275117305838

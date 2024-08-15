@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "fb851d14bbb1bf60",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fb69a8e08e93041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5016a05e43305b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Design REVAMPED.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3e8728be6886a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Questionnaire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9fab259987935c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "530e03e2180b50bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfedf37cabb7f868",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5591eaba8cf589d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85c6c0009f15ea2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebd6fa35c7abe3f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "841840bfec39418b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a7243afdb7e1a57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research/Questionnaire.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e13374c011f2bf43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research/Questionnaire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dde874d4d6030a36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abe2c06ddc5f86eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research/Questionnaire.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3e8728be6886a20",
+  "lastOpenFiles": [
+    "SDT.md",
+    "Research/Questionnaire.md",
+    "Study Design REVAMPED.md",
+    "Papers/Gender difference in spatial orientation.pdf",
+    "Research/Spatial Orientation.md",
+    "Papers/Gender, videogames and navigation in virtual space.pdf",
+    "Research/Spatial Perception.md",
+    "Research/Sense of place.md",
+    "Research/Self-Efficacy Scale.md",
+    "Papers/Applied Cognitive Psychology - 2007 - Coluccia - Learning from maps  the role of visuo‐spatial working memory.pdf"
+  ]
+}

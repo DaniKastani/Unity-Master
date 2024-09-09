@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d5016a05e43305b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Design REVAMPED.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c3e8728be6886a20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Questionnaire.md",
+                "file": "VR Game Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Questionnaire.md",
+                "file": "VR Game Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Questionnaire.md",
+                "file": "VR Game Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Questionnaire.md"
+                "file": "VR Game Tools.md"
               }
             }
           }
@@ -159,17 +146,59 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "8e18f8576374258c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3131a27cd70562d1",
+        "type": "window",
+        "children": [
+          {
+            "id": "0282709eaf50c290",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7d5016a05e43305b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Research/Cognitive Mapping.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "c3e8728be6886a20",
   "lastOpenFiles": [
-    "SDT.md",
-    "Research/Questionnaire.md",
     "Study Design REVAMPED.md",
+    "SDT.md",
+    "Research/Place.md",
+    "Research/Funktion.md",
+    "Research/Definitions.md",
+    "Research/Questionnaire.md",
+    "Research/Cognitive Mapping.md",
+    "Research/Self-Efficacy Scale.md",
+    "01 Study Design.md",
     "Papers/Gender difference in spatial orientation.pdf",
     "Research/Spatial Orientation.md",
     "Papers/Gender, videogames and navigation in virtual space.pdf",
     "Research/Spatial Perception.md",
     "Research/Sense of place.md",
-    "Research/Self-Efficacy Scale.md",
     "Papers/Applied Cognitive Psychology - 2007 - Coluccia - Learning from maps  the role of visuo‐spatial working memory.pdf"
   ]
 }
